@@ -1,6 +1,6 @@
 # Project Name
 
-![Project Logo](url_to_logo_image)
+![Project Logo](https://github.com/archdlh/dlh-predictive-modeling/blob/main/arch-logo-blueBIG-8x5%203.png)
 
 ## Overview
 
